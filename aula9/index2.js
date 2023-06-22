@@ -1,3 +1,6 @@
+// TIPOS DE DADOS PRIMITIVOS 
+// STRING, NUMBER, UNDEFINED, NULL E BOOLEAN
+
 const nome = 'Lucas' //STRING
 const nome1 = 'Lucas' //STRING
 const nome2 = 'Lucas' //STRING
