@@ -4,6 +4,8 @@
 (-) Subtração , (/) Divisão , (*) Multiplicação
 (**) Potenciação
 (%) Resto de divisão
+(++) Incremento
+(--) Decremento
 
     Precedência:
 () > ** > * , / , % > + , - 
